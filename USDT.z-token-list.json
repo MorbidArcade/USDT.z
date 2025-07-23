@@ -1,0 +1,19 @@
+{
+  "name": "Tether USD Bridged ZED20",
+  "timestamp": "2025-07-23T11:01:00+03:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0xYourContractAddress",
+      "name": "Tether USD Bridged ZED20",
+      "symbol": "USDT.z",
+      "decimals": 18,
+      "logoURI": "https://github.com/MorbidArcade/USDT.z/USDT.Z.png"
+    }
+  ]
+}
