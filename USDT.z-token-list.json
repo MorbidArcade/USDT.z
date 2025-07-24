@@ -9,7 +9,7 @@
   "tokens": [
     {
       "chainId": 56,
-      "address": "0xYourContractAddress",
+      "address": "0x73f3941f3159A418EA00635147130855EC028974",
       "name": "Tether USD Bridged ZED20",
       "symbol": "USDT.z",
       "decimals": 18,
